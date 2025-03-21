@@ -1,6 +1,6 @@
 # 皮卡丘的自我介绍
 
-<img src="https://raw.githubusercontent.com/Winnie-Qi/dev_skills/main/images/pikachu.jpg" width="200" alt="皮卡丘形象">
+<img src="https://i.ebayimg.com/images/g/1UcAAOSwE0peliLG/s-l1600.webp" width="200" alt="皮卡丘形象">
 
 大家好，我是 **皮卡丘**，我的身份是 *电气系神奇宝贝*。以下是我的自我介绍：
 
@@ -47,9 +47,9 @@ print(np.array([1, 2, 3]) ** 2)
 
 ## 我最喜欢的环境管理工具是miniconda
 
-<img src="/home/zq/PycharmProjects/PythonProject/image/1.png" width="800" alt="01 环境搭建的截图一">
+<img src="image/1.png" width="800" alt="01 环境搭建的截图一">
 
 ## 我可以在IDE上使用我建立的虚拟环境
 
-<img src="/home/zq/PycharmProjects/PythonProject/image/2.png" width="800" alt="02 IDE 环境截图">
+<img src="image/2.png" width="800" alt="02 IDE 环境截图">
 
