@@ -12,3 +12,12 @@
 
 ## 推理能力验证
 <img src="images/5.png" width="800" alt="01 截图二">
+
+## 无条件姓氏生成
+<img src="images/06.png" width="800" alt="01 截图二">
+
+## 有条件姓氏生成
+<img src="images/07.png" width="800" alt="01 截图二">
+
+## 问题回答
+BABB
